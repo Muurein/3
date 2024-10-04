@@ -11,4 +11,6 @@ Skapad av Amanda Thim
        * Förklara hur man ignorerar vissa filer och kataloger från att indexeras med Git
     2. Skapa ett konto och en ny remote repository på GitHub, tillsammans med en README-fil (denna)
     3. Skapa en README-fil till GitHub-kontot som en liten introduktion till vem man är
-    4. Länka till både *[profilen]*(https://github.com/Muurein) och *[den nya remote repositrien]*(https://github.com/Muurein/Inlamning-moment-3)
+    
+
+ 
