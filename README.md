@@ -12,6 +12,8 @@
    #### 2. Skapa ett konto och en ny remote repository på GitHub, tillsammans med en README-fil (denna)
    #### 3. Skapa en README-fil till GitHub-kontot som en liten introduktion till vem man är
     
+
+## Fortsättning
 Enligt uppgiften ska jag skriva mer om vad uppgiften går ut på.
 
 Dock skriver jag lite annan info nedan på grund av följande anledningar:
